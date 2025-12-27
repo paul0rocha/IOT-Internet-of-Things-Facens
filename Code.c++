@@ -26,7 +26,7 @@ int _tcpHttpPort     = 80;
 
 
 String _siteHost    = "api.thingspeak.com";		
-String _siteAPPID   = "WJPE65B0OQBNRXXV";	
+String _siteAPPID   = "GMKSINAAND9MEISB";	
 String _siteURIbase = "/update?api_key=" + _siteAPPID;
 String _siteField1  = "&field1=";
 String _siteField2  = "&field2=";
